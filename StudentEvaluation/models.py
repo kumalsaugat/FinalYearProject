@@ -22,7 +22,7 @@ NATIONALITY = [
     ("5","Dutch")  ,
     ("6","English")  ,
     ("7","Lithuanian")  ,
-    ("8","Angolan")  ,
+    ("8","Nepal")  ,
     ("9","Cape Verdean")  ,
     ("10","Guinean")  ,
     ("11","Mozambican")  ,
